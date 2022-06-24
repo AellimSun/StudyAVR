@@ -1,81 +1,23 @@
 Archive member included to satisfy reference by file (symbol)
 
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
-                              PEIZO_harmonics.o (__divmodsi4)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o) (__negsi2)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
                               C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega128a/avr51/crtatmega128a.o (exit)
 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
-                              PEIZO_harmonics.o (__do_copy_data)
-c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
-                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+                              tp.o (__do_copy_data)
 
 Discarded input sections
 
  .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega128a/avr51/crtatmega128a.o
  .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega128a/avr51/crtatmega128a.o
- .text          0x00000000        0x0 LED.o
- .data          0x00000000        0x0 LED.o
- .bss           0x00000000        0x0 LED.o
- .debug_line    0x00000000        0x0 LED.o
- .debug_str     0x00000000       0xe9 LED.o
- .comment       0x00000000       0x31 LED.o
- .text          0x00000000        0x0 LED2.o
- .data          0x00000000        0x0 LED2.o
- .bss           0x00000000        0x0 LED2.o
- .debug_line    0x00000000        0x0 LED2.o
- .debug_str     0x00000000       0xea LED2.o
- .comment       0x00000000       0x31 LED2.o
- .text          0x00000000        0x0 PEIZO_harmonics.o
- .data          0x00000000        0x0 PEIZO_harmonics.o
- .bss           0x00000000        0x0 PEIZO_harmonics.o
- .text          0x00000000        0x0 PIEZO.o
- .data          0x00000000        0x0 PIEZO.o
- .bss           0x00000000        0x0 PIEZO.o
- .debug_line    0x00000000        0x0 PIEZO.o
- .debug_str     0x00000000       0xeb PIEZO.o
- .comment       0x00000000       0x31 PIEZO.o
- .text          0x00000000        0x0 PIEZO_Switch.o
- .data          0x00000000        0x0 PIEZO_Switch.o
- .bss           0x00000000        0x0 PIEZO_Switch.o
- .debug_line    0x00000000        0x0 PIEZO_Switch.o
- .debug_str     0x00000000       0xf2 PIEZO_Switch.o
- .comment       0x00000000       0x31 PIEZO_Switch.o
- .text          0x00000000        0x0 PIEZO_UART.o
- .data          0x00000000        0x0 PIEZO_UART.o
- .bss           0x00000000        0x0 PIEZO_UART.o
- .debug_line    0x00000000        0x0 PIEZO_UART.o
- .debug_str     0x00000000       0xf0 PIEZO_UART.o
- .comment       0x00000000       0x31 PIEZO_UART.o
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
- .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
- .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
- .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
- .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
- .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
- .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
- .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
- .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
- .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
- .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 keypad_test.o
+ .data          0x00000000        0x0 keypad_test.o
+ .bss           0x00000000        0x0 keypad_test.o
+ .debug_line    0x00000000        0x0 keypad_test.o
+ .debug_str     0x00000000       0xeb keypad_test.o
+ .comment       0x00000000       0x31 keypad_test.o
+ .text          0x00000000        0x0 tp.o
+ .data          0x00000000        0x0 tp.o
+ .bss           0x00000000        0x0 tp.o
  .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
  .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
  .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
@@ -108,20 +50,6 @@ Discarded input sections
                 0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
  .text.libgcc.fixed
                 0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_copy_data.o)
- .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
- .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
- .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
- .text.libgcc.mul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
- .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
- .text.libgcc.prologue
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
- .text.libgcc.builtins
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
- .text.libgcc.fmul
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
- .text.libgcc.fixed
-                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
 
 Memory Configuration
 
@@ -139,12 +67,8 @@ Linker script and memory map
 
 Address of section .data set to 0x800100
 LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega128a/avr51/crtatmega128a.o
-LOAD LED.o
-LOAD LED2.o
-LOAD PEIZO_harmonics.o
-LOAD PIEZO.o
-LOAD PIEZO_Switch.o
-LOAD PIEZO_UART.o
+LOAD keypad_test.o
+LOAD tp.o
 START GROUP
 LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51\libm.a
 END GROUP
@@ -254,7 +178,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000      0x2f6
+.text           0x00000000      0x1c2
  *(.vectors)
  .vectors       0x00000000       0x8c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega128a/avr51/crtatmega128a.o
                 0x00000000                __vector_default
@@ -348,31 +272,13 @@ END GROUP
                 0x000000b6                __vector_20
                 0x000000b8                . = ALIGN (0x2)
  *(.text.*)
- .text.putch    0x000000b8        0xe PEIZO_harmonics.o
-                0x000000b8                putch
- .text.getch    0x000000c6        0xe PEIZO_harmonics.o
-                0x000000c6                getch
- .text.putStr   0x000000d4       0x18 PEIZO_harmonics.o
-                0x000000d4                putStr
- .text.Harmonics
-                0x000000ec       0xfc PEIZO_harmonics.o
-                0x000000ec                Harmonics
- .text.main     0x000001e8       0x8e PEIZO_harmonics.o
-                0x000001e8                main
- .text.libgcc.div
-                0x00000276       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_divmodsi4.o)
-                0x00000276                __divmodsi4
- .text.libgcc.div
-                0x0000029e       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_negsi2.o)
-                0x0000029e                __negsi2
- .text.libgcc.div
-                0x000002ae       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_udivmodsi4.o)
-                0x000002ae                __udivmodsi4
-                0x000002f2                . = ALIGN (0x2)
+ .text.main     0x000000b8      0x106 tp.o
+                0x000000b8                main
+                0x000001be                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x000002f2        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
-                0x000002f2                _exit
-                0x000002f2                exit
+ .fini9         0x000001be        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+                0x000001be                _exit
+                0x000001be                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -391,40 +297,37 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x000002f2        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
+ .fini0         0x000001be        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr51\libgcc.a(_exit.o)
  *(.fini0)
-                0x000002f6                _etext = .
+                0x000001c2                _etext = .
 
-.data           0x00800100       0x2a load address 0x000002f6
+.data           0x00800100       0x12 load address 0x000001c2
                 0x00800100                PROVIDE (__data_start, .)
  *(.data)
  *(.data*)
- .data.DoReMi   0x00800100       0x10 PEIZO_harmonics.o
-                0x00800100                DoReMi
  *(.gnu.linkonce.d*)
  *(.rodata)
+ .rodata        0x00800100       0x12 tp.o
  *(.rodata*)
- .rodata.str1.1
-                0x00800110       0x1a PEIZO_harmonics.o
  *(.gnu.linkonce.r*)
-                0x0080012a                . = ALIGN (0x2)
-                0x0080012a                _edata = .
-                0x0080012a                PROVIDE (__data_end, .)
+                0x00800112                . = ALIGN (0x2)
+                0x00800112                _edata = .
+                0x00800112                PROVIDE (__data_end, .)
 
-.bss            0x0080012a        0x0
+.bss            0x00800112        0x0
                 [!provide]                PROVIDE (__bss_start, .)
  *(.bss)
  *(.bss*)
  *(COMMON)
                 [!provide]                PROVIDE (__bss_end, .)
-                0x000002f6                __data_load_start = LOADADDR (.data)
-                0x00000320                __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x000001c2                __data_load_start = LOADADDR (.data)
+                0x000001d4                __data_load_end = (__data_load_start + SIZEOF (.data))
 
-.noinit         0x0080012a        0x0
+.noinit         0x00800112        0x0
                 [!provide]                PROVIDE (__noinit_start, .)
  *(.noinit*)
                 [!provide]                PROVIDE (__noinit_end, .)
-                0x0080012a                _end = .
+                0x00800112                _end = .
                 [!provide]                PROVIDE (__heap_start, .)
 
 .eeprom         0x00810000        0x0
@@ -466,7 +369,7 @@ END GROUP
 
 .comment        0x00000000       0x30
  *(.comment)
- .comment       0x00000000       0x30 PEIZO_harmonics.o
+ .comment       0x00000000       0x30 tp.o
                                  0x31 (size before relaxing)
 
 .note.gnu.avr.deviceinfo
@@ -489,42 +392,42 @@ END GROUP
 .debug_sfnames
  *(.debug_sfnames)
 
-.debug_aranges  0x00000000       0x40
+.debug_aranges  0x00000000       0x20
  *(.debug_aranges)
  .debug_aranges
-                0x00000000       0x40 PEIZO_harmonics.o
+                0x00000000       0x20 tp.o
 
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000      0xaf5
+.debug_info     0x00000000      0xa42
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000      0x780 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega128a/avr51/crtatmega128a.o
- .debug_info    0x00000780      0x375 PEIZO_harmonics.o
+ .debug_info    0x00000780      0x2c2 tp.o
 
-.debug_abbrev   0x00000000      0x8fc
+.debug_abbrev   0x00000000      0x821
  *(.debug_abbrev)
  .debug_abbrev  0x00000000      0x718 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega128a/avr51/crtatmega128a.o
- .debug_abbrev  0x00000718      0x1e4 PEIZO_harmonics.o
+ .debug_abbrev  0x00000718      0x109 tp.o
 
-.debug_line     0x00000000      0x429
+.debug_line     0x00000000      0x3ce
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x00000000      0x16a C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega128a/avr51/crtatmega128a.o
- .debug_line    0x0000016a      0x2bf PEIZO_harmonics.o
+ .debug_line    0x0000016a      0x264 tp.o
 
-.debug_frame    0x00000000       0x90
+.debug_frame    0x00000000       0x34
  *(.debug_frame)
- .debug_frame   0x00000000       0x90 PEIZO_harmonics.o
+ .debug_frame   0x00000000       0x34 tp.o
 
-.debug_str      0x00000000      0x44a
+.debug_str      0x00000000      0x400
  *(.debug_str)
  .debug_str     0x00000000      0x27d C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.6.364/gcc/dev/atmega128a/avr51/crtatmega128a.o
- .debug_str     0x0000027d      0x1cd PEIZO_harmonics.o
-                                0x206 (size before relaxing)
+ .debug_str     0x0000027d      0x183 tp.o
+                                0x1b7 (size before relaxing)
 
-.debug_loc      0x00000000      0x26f
+.debug_loc      0x00000000      0x231
  *(.debug_loc)
- .debug_loc     0x00000000      0x26f PEIZO_harmonics.o
+ .debug_loc     0x00000000      0x231 tp.o
 
 .debug_macinfo
  *(.debug_macinfo)
@@ -544,11 +447,11 @@ END GROUP
 .debug_pubtypes
  *(.debug_pubtypes)
 
-.debug_ranges   0x00000000       0x30
+.debug_ranges   0x00000000       0x10
  *(.debug_ranges)
- .debug_ranges  0x00000000       0x30 PEIZO_harmonics.o
+ .debug_ranges  0x00000000       0x10 tp.o
 
 .debug_macro
  *(.debug_macro)
-OUTPUT(Timer_PWM.elf elf32-avr)
+OUTPUT(KeyPad.elf elf32-avr)
 LOAD linker stubs

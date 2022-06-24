@@ -128,6 +128,9 @@
     <Compile Include="LED2.c">
       <SubType>compile</SubType>
     </Compile>
+    <Compile Include="PEIZO_harmonics.c">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="PIEZO.c">
       <SubType>compile</SubType>
     </Compile>

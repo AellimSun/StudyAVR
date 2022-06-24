@@ -39,6 +39,7 @@ SUBDIRS :=
 C_SRCS +=  \
 ../LED.c \
 ../LED2.c \
+../PEIZO_harmonics.c \
 ../PIEZO.c \
 ../PIEZO_Switch.c \
 ../PIEZO_UART.c
@@ -53,6 +54,7 @@ ASM_SRCS +=
 OBJS +=  \
 LED.o \
 LED2.o \
+PEIZO_harmonics.o \
 PIEZO.o \
 PIEZO_Switch.o \
 PIEZO_UART.o
@@ -60,6 +62,7 @@ PIEZO_UART.o
 OBJS_AS_ARGS +=  \
 LED.o \
 LED2.o \
+PEIZO_harmonics.o \
 PIEZO.o \
 PIEZO_Switch.o \
 PIEZO_UART.o
@@ -67,6 +70,7 @@ PIEZO_UART.o
 C_DEPS +=  \
 LED.d \
 LED2.d \
+PEIZO_harmonics.d \
 PIEZO.d \
 PIEZO_Switch.d \
 PIEZO_UART.d
@@ -74,6 +78,7 @@ PIEZO_UART.d
 C_DEPS_AS_ARGS +=  \
 LED.d \
 LED2.d \
+PEIZO_harmonics.d \
 PIEZO.d \
 PIEZO_Switch.d \
 PIEZO_UART.d
@@ -100,6 +105,13 @@ LINKER_SCRIPT_DEP+=
 	
 
 ./LED2.o: .././LED2.c
+	@echo Building file: $<
+	@echo Invoking: AVR/GNU C Compiler : 5.4.0
+	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -funsigned-char -funsigned-bitfields -DDEBUG  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\include"  -Og -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -mrelax -g2 -Wall -mmcu=atmega128a -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\gcc\dev\atmega128a" -c -std=gnu99 -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 
+	@echo Finished building: $<
+	
+
+./PEIZO_harmonics.o: .././PEIZO_harmonics.c
 	@echo Building file: $<
 	@echo Invoking: AVR/GNU C Compiler : 5.4.0
 	$(QUOTE)C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avr8-gnu-toolchain\bin\avr-gcc.exe$(QUOTE)  -x c -funsigned-char -funsigned-bitfields -DDEBUG  -I"C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\include"  -Og -ffunction-sections -fdata-sections -fpack-struct -fshort-enums -mrelax -g2 -Wall -mmcu=atmega128a -B "C:\Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\gcc\dev\atmega128a" -c -std=gnu99 -MD -MP -MF "$(@:%.o=%.d)" -MT"$(@:%.o=%.d)" -MT"$(@:%.o=%.o)"   -o "$@" "$<" 

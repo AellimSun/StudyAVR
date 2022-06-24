@@ -2,15 +2,9 @@
 # Automatically-generated file. Do not edit or delete the file
 ################################################################################
 
-LED.c
+step1-2Phase.c
 
-LED2.c
+step1Phase.c
 
-PEIZO_harmonics.c
-
-PIEZO.c
-
-PIEZO_Switch.c
-
-PIEZO_UART.c
+step2Phase.c
 
